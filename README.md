@@ -29,6 +29,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pramit-mondal76&show_icons=true&locale=en&layout=compact" alt="pramit-mondal76" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramit-mondal76&show_icons=true&locale=en" alt="pramit-mondal76" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramit-mondal76&" alt="pramit-mondal76" /></p>
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramit-mondal76&show_icons=true&theme=dark&locale=en" alt="pramit-mondal76" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramit-mondal76&theme=dark" alt="pramit-mondal76" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pramit-mondal76&label=Profile%20views&color=ff0000&style=flat" alt="pramit-mondal76" /> </p>
+
